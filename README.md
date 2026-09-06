@@ -38,4 +38,4 @@
 | `SUPER` + `Z` | Enter floating mode for the focused container |
 | `SUPER` + `1-9` | Switch to workspace 1-9 |
 
-<img src="https://raw.githubusercontent.com/NeAdvokats/legacy-bios-dotfiles/refs/heads/main/rice.png" />
+<img src="https://raw.githubusercontent.com/NeAdvokats/legacy-bios-dotfiles/refs/heads/main/image.png" />
