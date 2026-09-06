@@ -3,7 +3,7 @@ x = 15
 y = 15
 
 [font]
-size = 14.0
+size = 15.0
 
 [font.normal]
 family = "PxPlus IBM VGA 8x16"
@@ -14,25 +14,25 @@ family = "PxPlus IBM VGA 8x16"
 style = "Bold"
 
 [colors.primary]
-background = "#00009c"
-foreground = "#a8a8a8"
+background = "#9c9a9d"
+foreground = "#00009c"
 
 [colors.normal]
 black =   "#000000"
-red =     "#a8a8a8"
-green =   "#a8a8a8"
-yellow =  "#a8a8a8"
-blue =    "#757575"
-magenta = "#a8a8a8"
-cyan =    "#a8a8a8"
-white =   "#a8a8a8"
+red =     "#00009c"
+green =   "#00009c"
+yellow =  "#00009c"
+blue =    "#00009c"
+magenta = "#00009c"
+cyan =    "#00009c"
+white =   "#00009c"
 
 [colors.bright]
-black =   "#a8a8a8"
-red =     "#a8a8a8"
-green =   "#a8a8a8"
-yellow =  "#a8a8a8"
-blue =    "#a8a8a8"
-magenta = "#a8a8a8"
-cyan =    "#a8a8a8"
-white =   "#ffffff"
+black =   "#00009c"
+red =     "#00009c"
+green =   "#00009c"
+yellow =  "#00009c"
+blue =    "#00009c"
+magenta = "#00009c"
+cyan =    "#00009c"
+white =   "#00009c"
