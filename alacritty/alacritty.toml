@@ -1,0 +1,38 @@
+[window.padding]
+x = 15
+y = 15
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "PxPlus IBM VGA 8x16"
+style = "Regular"
+
+[font.bold]
+family = "PxPlus IBM VGA 8x16"
+style = "Bold"
+
+[colors.primary]
+background = "#00009c"
+foreground = "#a8a8a8"
+
+[colors.normal]
+black =   "#000000"
+red =     "#a8a8a8"
+green =   "#a8a8a8"
+yellow =  "#a8a8a8"
+blue =    "#757575"
+magenta = "#a8a8a8"
+cyan =    "#a8a8a8"
+white =   "#a8a8a8"
+
+[colors.bright]
+black =   "#a8a8a8"
+red =     "#a8a8a8"
+green =   "#a8a8a8"
+yellow =  "#a8a8a8"
+blue =    "#a8a8a8"
+magenta = "#a8a8a8"
+cyan =    "#a8a8a8"
+white =   "#ffffff"
